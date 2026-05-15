@@ -15,7 +15,7 @@ export default function Hero() {
         <img
           // src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&q=80&w=2071"
           // src="/hero-section-1.jpeg"
-          src="public/hero-section-1.jpeg"
+          src="https://raw.githubusercontent.com/wpsynovative2/Deep-Group-Second/refs/heads/main/public/hero-section-1.jpeg"
           alt="Luxury Property Hero"
           className="w-full h-full object-cover"
         />
