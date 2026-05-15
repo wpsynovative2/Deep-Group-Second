@@ -1,0 +1,8 @@
+{
+  "name": "Elite Estate | Luxury Real Estate",
+  "description": "A premium luxury real estate platform showcasing high-end properties with a sophisticated aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
