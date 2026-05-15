@@ -14,7 +14,8 @@ export default function Hero() {
         <div className="absolute inset-0 bg-black/50 z-10"></div>
         <img
           // src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&q=80&w=2071"
-          src="/hero-section-1.jpeg"
+          // src="/hero-section-1.jpeg"
+          src="public/hero-section-1.jpeg"
           alt="Luxury Property Hero"
           className="w-full h-full object-cover"
         />
